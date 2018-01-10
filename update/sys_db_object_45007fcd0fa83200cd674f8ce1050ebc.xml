@@ -17,10 +17,8 @@
         <number_ref display_value="NI">1e427f010fe83200cd674f8ce1050e8b</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">782649434f122200a9e6f4934210c781</super_class>
-        <sys_class_code/>
+        <super_class display_value="Task" name="task">ba276b5090300300a21c513b6aad7686</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-24 22:46:33</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
